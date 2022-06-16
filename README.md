@@ -59,5 +59,5 @@ The results of the test are printed out in the terminal once completed.
 James Cochran - jdc7@email.sc.edu<br />
 Joshua Acree - jgacree@email.sc.edu<br />
 Tyler Beagle - wbeagle@email.sc.edu; tylerbeagle34@gmail.com<br />
-Justin Brown - justinhb@email.sc.edu<br />
+Justin Brown - justinhb@email.sc.edu; justhbrown@gmail.com<br />
 Devon Harant - dharant@email.sc.edu; devharant@gmail.com
